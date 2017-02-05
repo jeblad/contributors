@@ -2,7 +2,8 @@
 
 These is the readme file for the Contributors extension.
 
-Extension page on mediawiki.org: https://www.mediawiki.org/wiki/Extension:Contributors
+Extension page on mediawiki.org: https://www.mediawiki.org/wiki/User:Jeblad/Contributors
+Some notes: https://www.mediawiki.org/wiki/User:Jeblad/contributors
 Latest version of the readme file: https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/extensions/Contributors.git;a=blob;f=README
 
 == About ==
